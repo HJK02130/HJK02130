@@ -1,10 +1,9 @@
 <div align=center>  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HJK02130&fontSize=90" />
-  
-
-  ### :keyboard: Tech Stacks :keyboard:
-	<a href="mailto:hjk02130@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> 
-	<a href = "https://github.com/HJK02130"> <img src ="https://img.shields.io/badge/Github-181717.svg?&style=flat-squar&logo=Github&logoColor=white"/> </a> </div>
+	<br>
+	### :keyboard: Tech Stacks :keyboard:
+	<a href="mailto:hjk02130@gmail.com"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> 
+	<a href = "https://github.com/HJK02130"><img src ="https://img.shields.io/badge/Github-181717.svg?&style=flat-squar&logo=Github&logoColor=white"/> </a> </div>
 
   ### :keyboard: I've Used :keyboard:
 	<a href="mailto:hjk02130@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> 
