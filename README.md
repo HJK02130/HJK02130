@@ -1,5 +1,7 @@
 <div align=center>  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HJK02130&fontSize=90" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=HJK02130&fontSize=90" />
+	<a href="mailto:hjk02130@gmail.com"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> 
+	
 	
 	### :keyboard: Tech Stacks :keyboard:
 	<a href="mailto:hjk02130@gmail.com"><img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> 
