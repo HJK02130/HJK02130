@@ -2,9 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=soft&color=6B8FC3&height=116&section=header&text=Hyunji%20Kim&fontSize=50&animation=fadeIn&fontColor=FFFFFF" /> 
 </div>
 
-<br>
 <div align=left>
 </div>
+
+[<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>](https://read-me.notion.site/Hyunji-Kim-25459b8cf025460da2417f49515b6598) <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> [<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/>](hjk021@gmail.com)
 
 ### 🛠️ **Skills**
 
