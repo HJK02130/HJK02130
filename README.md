@@ -15,7 +15,7 @@
 
 ##### Development Tools & Softwares
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <img src="https://img.shields.io/badge/Libtorch-EE4C2C?style=flat-square&logo=Pytorch&logoColor=white"/> <br>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <br>
+<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/> <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <img src="https://img.shields.io/badge/Anaconda-#44A833?style=flat-square&logo=VisualStudioCode&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <br> 
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=RStudio&logoColor=white"/> <br>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/> <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=AndroidStudio&logoColor=white"/> <br>
